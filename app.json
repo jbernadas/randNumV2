@@ -1,0 +1,12 @@
+{
+  "name": "randNumV2",
+  "displayName": "randNumV2",
+  "expo": {
+    "name": "randNumV2",
+    "slug": "randNumV2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
