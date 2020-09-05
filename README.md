@@ -1,6 +1,6 @@
 # randNumV2
 
-This is a random number generator coded in React Native with Expo.
+This is a mobile app for generating random numbers. It is coded in React Native with Expo.
 
 ## Requirements
 You need Node.js version 12, Yarn version 1.22 and Expo-CLI installed to run this app.
