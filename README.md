@@ -22,4 +22,6 @@ You need Node.js version 12, Yarn version 1.22 and Expo-CLI installed to run thi
 ```bash
   expo start
 ```
+5. You can now view the app either by using the generated QR code in your Expo app on your phone or going to the exp URL on a browser.
+
 Thanks for looking!
