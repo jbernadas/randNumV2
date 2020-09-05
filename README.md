@@ -10,15 +10,15 @@ You need Node.js version 12, Yarn version 1.22 and Expo-CLI installed to run thi
 ```bash
   git clone git@github.com:jbernadas/randNumV2.git
 ```
-1. cd into the newly created directory:
+2. cd into the newly created directory:
 ```bash
   cd randNumV2
 ```
-1. Install all the dependecies:
+3. Install all the dependecies:
 ```bash
   npm install
 ```
-1. Fire up the app:
+4. Fire up the app:
 ```bash
   expo start
 ```
